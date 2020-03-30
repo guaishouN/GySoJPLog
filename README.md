@@ -8,3 +8,7 @@ add a test
 
 local add a test
 
+
+local add secondtest
+
+local add thirdtest
